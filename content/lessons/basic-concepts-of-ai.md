@@ -37,6 +37,8 @@ At the heart of this model lies something called a **neural network**.
 
 ### Neural Networks: The Brain Inside the Machine
 
+![charlytoc_neural_network_diagram_minimalistic_but_inderstandabl_271da4a6-49aa-4ef9-9efa-4ab14c703f48](https://github.com/breatheco-de/applied-ai-syllabus/assets/107764250/f0925edc-4e2a-4815-ab43-234617375f02)
+
 A **neural network** is a structure inspired by the human brain. It’s made up of millions (or even billions) of small processing units called **neurons**. These neurons are connected to each other, and they "talk" using math — not language or thoughts.
 
 Each connection has a **weight**, which is just a number that tells the network how strong that connection is. The system learns by **adjusting these weights** during training. The better the weights are adjusted, the more accurate the AI becomes.
