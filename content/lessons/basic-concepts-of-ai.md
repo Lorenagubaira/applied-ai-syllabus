@@ -7,6 +7,8 @@ authors: ["Charly Chacon"]
 
 # 🤖 Artificial Intelligence in Simple Terms
 
+![charlytoc_A_robot_painting_on_a_canvas_3821309c-004d-41b7-b009-21c9bdd3674e](https://github.com/breatheco-de/applied-ai-syllabus/assets/107764250/41e8da3f-f1ba-48ca-bbdf-f1a8a60e7486)  
+
 Imagine asking a machine to write a poem, paint a sunset, or generate a video of a dancing dinosaur — and it actually does it. Welcome to the world of **Generative Artificial Intelligence**.
 
 In this guide, I’ll take you by the digital hand and walk you through the main concepts behind generative AI: what it is, how it works, and why it's becoming one of the most powerful tools of our time. All explained in plain, creative language.
