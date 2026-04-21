@@ -5,15 +5,11 @@ tags: ["generative-ai", "ai-models", "neural-networks"]
 authors: ["Charly Chacon"]
 ---
 
-![Prompt: a_robot_with_humanoid_aspect_drawing_on_a_picture, by @Charlytoc](https://storage.googleapis.com/rigobot-storage-bucket/images/charlytoc_a_robot_with_humanoid_aspect_drawing_on_a_picture_286bf920-6d07-4e21-be6f-b637fda1d766.webp)
-
 # 🤖 Artificial Intelligence in Simple Terms
 
 Imagine asking a machine to write a poem, paint a sunset, or generate a video of a dancing dinosaur — and it actually does it. Welcome to the world of **Generative Artificial Intelligence**.
 
 In this guide, I’ll take you by the digital hand and walk you through the main concepts behind generative AI: what it is, how it works, and why it's becoming one of the most powerful tools of our time. All explained in plain, creative language.
-
----
 
 ## 🎨 What Is Generative AI?
 
@@ -29,8 +25,6 @@ Imagine you want to teach a robot to paint. You show it thousands of paintings a
 
 That's generative AI in a nutshell.
 
----
-
 ## 🧠 But What Is an AI Model?
 
 Now, let’s open up the AI’s brain (don’t worry, it doesn’t feel anything).
@@ -45,10 +39,6 @@ A **neural network** is a structure inspired by the human brain. It’s made up 
 
 Each connection has a **weight**, which is just a number that tells the network how strong that connection is. The system learns by **adjusting these weights** during training. The better the weights are adjusted, the more accurate the AI becomes.
 
-![Prompt: Diagrama minimalista de una red neuronal, by @Charlytoc](https://storage.googleapis.com/rigobot-storage-bucket/images/charlytoc_neural_network_diagram_minimalistic_but_inderstandabl_8a420f74-ff58-41c7-a80f-1be1d494830a.webp)
-
----
-
 ## 🧪 What Is “Training” in AI?
 
 Great question. 🎓
@@ -61,8 +51,6 @@ Eventually, the model becomes so good at recognizing patterns that it can say, �
 
 This is true not only for images, but for text, audio, video, and more.
 
----
-
 ## 🧼 Why Is High-Quality Data So Important?
 
 Here’s a golden rule of AI:
@@ -74,8 +62,6 @@ If you train a model with low-quality, biased, or messy data, it will learn — 
 Think of the AI as a sponge. If you fill it with clean, well-organized, diverse information, it will produce smart and helpful results. But if you fill it with noise, junk, or biased content, it will behave in unpredictable or even dangerous ways.
 
 That’s why companies spend millions curating the **perfect datasets** — clean, labeled, and as diverse as possible.
-
----
 
 ## ⚡ The Hidden Cost: Energy and Infrastructure
 
@@ -90,8 +76,6 @@ To give you an idea:
 This has sparked debates about the **environmental impact** of AI, especially as demand for larger and more powerful models increases.
 
 That’s why optimizing models — making them smaller and more efficient — is a major focus in AI research today.
-
----
 
 ## 📏 How Big Is an AI Model?
 
@@ -111,8 +95,6 @@ The more parameters a model has, the more complex patterns it can learn — but 
 
 That’s why **bigger isn’t always better**. A smaller model trained with excellent data can outperform a larger one trained poorly.
 
----
-
 ## 🤖 Does AI Really Think?
 
 Let’s pause here and ask a philosophical question:
@@ -126,8 +108,6 @@ AI doesn’t have emotions, consciousness, or awareness. It doesn't *understand*
 Instead, it operates by identifying statistical patterns in data. It responds based on probabilities, not beliefs or understanding. This makes it incredibly powerful for specific tasks — but also limited in unexpected ways.
 
 So, **AI is not intelligent like a human — it’s intelligent like a calculator on steroids.**
-
----
 
 ## ✨ Why Is This Revolutionary?
 
@@ -144,8 +124,6 @@ And the most amazing part? It keeps getting better.
 
 > If you’re not using AI today, chances are your job will change because of it — and soon.
 
----
-
 ## 🎬 Ready to Learn More?
 
 If you liked this guide, you can follow me on:  
@@ -153,7 +131,5 @@ If you liked this guide, you can follow me on:
 - [YouTube](https://www.youtube.com/@charlytoc132)
 
 Or dive deeper into how AI works by exploring more lessons at [4Geeks.com](https://4geeks.com)
-
----
 
 > **The future is not written. But now, it can be generated.**
